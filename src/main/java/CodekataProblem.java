@@ -4,7 +4,7 @@ public class CodekataProblem {
      * */
     //dato un intero i, restituire il i*5
     public static int x5(int i){
-        return i * 5;
+        return i + 5;
     }
 
     //dato un intero i, restituire il i*j
