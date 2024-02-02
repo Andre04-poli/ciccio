@@ -14,6 +14,6 @@ public class CodekataProblem {
 
     //dato un intero i, restituire il i-100
     public static int iminus100(int i){
-        return i * 100;
+        return i + 100;
     }
 }
