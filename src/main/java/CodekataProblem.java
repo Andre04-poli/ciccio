@@ -9,7 +9,7 @@ public class CodekataProblem {
 
     //dato un intero i, restituire il i*j
     public static int ixj(int i, int j){
-        return i * j;
+        return i / j;
     }
 
     //dato un intero i, restituire il i-100
